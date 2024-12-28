@@ -32,7 +32,7 @@ export default function RandomWebsitePicker() {
 
       <Image src='/images/bg_image.jpg' className='rounded-md mx-auto mb-2' width={100} height={100} alt='adong' />
       <div className='flex justify-center'>
-        <h1 className='text-2xl font-semibold'>Random Website Picker ni Adong</h1>
+        <h1 className='text-2xl font-semibold'>Random Website Picker</h1>
       </div>
       {randomWebsites.length === 0 && (
         <div>
