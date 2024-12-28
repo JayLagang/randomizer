@@ -30,7 +30,6 @@ export default function RandomWebsitePicker() {
       {/* Toaster for notifications */}
       <Toaster position=" bottom-right" />
 
-      <Image src='/images/bg_image.jpg' className='rounded-md mx-auto mb-2' width={100} height={100} alt='adong' />
       <div className='flex justify-center'>
         <h1 className='text-2xl font-semibold'>Random Website Picker</h1>
       </div>
