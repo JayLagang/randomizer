@@ -101,6 +101,15 @@ export const sites = [
 ];
 
 export const localSites = [
+    "https://facebook.com",
+    "https://x.com",
+    "https://instagram.com",
+    "https://tiktok.com",
+    "https://pornhub.com",
+    "https://xvideos2.com",
+    "https://reddit.com",
+    "https://discord.com",
+    "https://ome.tv",
     "https://yelp.com",
     "https://gatsby.ph",
     "https://shopee.ph",
@@ -177,7 +186,7 @@ export const localSites = [
     "https://smcinema.com",
     "https://tickettome.net",
     "https://ayalamalls.com",
-    "https://megaworld-lifestylemalls.com",
+         "https://megaworld-lifestylemalls.com",
     "https://therailwayshop.ph",
     "https://zilingo.com/ph",
     "https://zalora.com.ph",
